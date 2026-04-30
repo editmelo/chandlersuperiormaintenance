@@ -20,4 +20,4 @@ Deployed to Vercel. Any static host (Netlify, GitHub Pages, Cloudflare Pages) wi
 
 ## Contact
 
-Terrel Chandler — terrelchandler@yahoo.com — (463) 269-7188
+Terrel Chandler — tchandler@chandlersuperiormaintenance.com — (463) 269-7188
